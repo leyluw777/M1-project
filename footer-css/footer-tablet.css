@@ -1,0 +1,90 @@
+@media screen and (max-width: 834px){
+    .about-course{
+        min-height: 363.46px;
+        padding: 103px 0 107px 70.66px;
+    }
+    .about-course-container{
+        width: 63%;
+        height: 250px;
+    }
+    .course-start-date{
+        font-size: 32px;
+    }
+    .price-heading{
+        font-size: 14px;
+    }
+    .price{
+        height: 50px;
+        font-size: 46px;
+    }
+    .description-heading{
+        width: 170px;
+        height: 18.53px;
+        font-size: 14px;
+        margin-bottom: 5.21px;
+    }
+    .description-item{
+        margin-right: 40px;
+    }
+    .about-course-description{
+        width: 170px;
+        height: 40px;
+        font-size: 10px;
+    }
+    .footer-container{
+        width: 80%;
+        display: flex;
+        justify-content: space-between;
+        margin-left: 70.66px;
+    }
+    .footer-social{
+        display: flex;
+        flex-direction: column;
+        margin-top: 28.96px;
+    }
+    .footer-contact{
+        font-size: 25px;
+        margin-top: 54px;
+    }
+    .social-logo-div{
+        margin-bottom: 17.38px;
+    }
+    .social-logo{
+        width: 66.6px;
+        height: 39.38px;
+    }
+    .social-logo-list{
+        width: 115px;
+        margin-bottom: 84.56px;
+    }
+    .logo{
+        width: 19.4px;
+        height: 19.4px;
+    }
+    .footer-contact{
+        font-size: 14px;
+        margin-top: 31.28px;
+    }
+    .phone-logo{
+        width: 15.64px;
+        height: 15.64px;
+        margin-right: 12.74px;
+    }
+    .email-logo{
+        width: 15.64px;
+        height: 10.43px;
+        margin-right: 12.74px;
+    }
+    .phone-number-text{
+        width: 133.21px;
+        height: 23.17px;
+    }
+    .email-text{
+        width: 155.8px;
+        height: 23.17px;
+    }
+    .copyright{
+        margin: 0 0 20px 70.66px;
+        font-size: 10px;
+    }
+}
