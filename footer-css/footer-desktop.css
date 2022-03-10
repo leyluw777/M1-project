@@ -58,15 +58,14 @@ body{
     font-weight: 400;
     line-height: 101.28%;
 }
-.description-item{
-    margin-right: 70px;
-}
 .about-course-description{
-    width: 294px;
-    height: 70px;
+    max-width: 294px;
     font-size: 18px;
     font-weight: 400;
     line-height: 101.38%;
+}
+.description-item{
+    margin-right: 54px;
 }
 
 /* Footer */

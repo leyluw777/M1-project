@@ -4,7 +4,7 @@
         padding: 103px 0 107px 70.66px;
     }
     .about-course-container{
-        width: 63%;
+        width: 100%;
         height: 250px;
     }
     .course-start-date{
@@ -17,18 +17,17 @@
         height: 50px;
         font-size: 46px;
     }
+    .description{
+        flex-wrap: wrap;
+    }
     .description-heading{
         width: 170px;
         height: 18.53px;
         font-size: 14px;
         margin-bottom: 5.21px;
     }
-    .description-item{
-        margin-right: 40px;
-    }
     .about-course-description{
-        width: 170px;
-        height: 40px;
+        max-width: 170px;
         font-size: 10px;
     }
     .footer-container{
