@@ -6,7 +6,7 @@
     }
     .about-course-container{
         width: 83%;
-        min-height: 240px;
+        min-height: 230px;
     }
     .course-start-date{
         font-size: 26px;
@@ -21,6 +21,7 @@
     .description{
         flex-wrap: wrap;
         justify-content: center;
+        margin-top: 10px;
     }
     .description-heading{
         width: 137px;
@@ -31,7 +32,7 @@
     .description-item{
         margin-right: 0;
         margin-bottom: 15px;
-        margin-top: 20px;
+/*         margin-top: 20px; */
     }
     .description-item-2{
         display: flex;
