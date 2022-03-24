@@ -1,0 +1,102 @@
+@media screen and (max-width: 375px){
+    .about-course{
+        width: 100%;
+        min-height: 363.46px;
+        padding: 62px 0 63px 35px;
+    }
+    .about-course-container{
+        width: 83%;
+        min-height: 230px;
+    }
+    .course-start-date{
+        font-size: 26px;
+    }
+    .price-heading{
+        font-size: 12px;
+    }
+    .price{
+        height: 40px;
+        font-size: 37px;
+    }
+    .description{
+        flex-wrap: wrap;
+        margin-top: 10px;
+    }
+    .description-heading{
+        width: 137px;
+        height: 14.91px;
+        font-size: 12px;
+        margin-bottom: 5px;
+    }
+    .description-item{
+        margin-right: 0;
+        margin-bottom: 15px;
+        /* margin-top: 20px; */
+    }
+    .description-item-2{
+        display: flex;
+        flex-direction: column;
+    }
+    .about-course-description{
+        width: 120px;
+        font-size: 10px;
+        margin-right: 0;
+    }
+    .footer-container{
+        margin-left: 35px;
+        flex-direction: column;
+    }
+    .footer-social{
+        margin-top: 23.3px;
+    }
+    .footer-contact{
+        font-size: 12px;
+    }
+    .social-logo-div{
+        margin-bottom: 13.5px;
+    }
+    .social-logo{
+        width: 53.59px;
+        height: 31.69px;
+    }
+    .social-logo-list{
+        width: 92px;
+        margin-bottom: 47.77px;
+    }
+    .logo{
+        width: 15.61px;
+        height: 15.61px;
+    }
+    .footer-contact{
+        font-size: 12px;
+        margin: 0 0 49px 0;
+    }
+    .phone-number{
+        display: flex;
+    }
+    .email{
+        display: flex;
+    }
+    .phone-logo{
+        width: 12.58px;
+        height: 12.58px;
+        margin-right: 10.25px;
+    }
+    .email-logo{
+        width: 12.58px;
+        height: 8.39px;
+        margin-right: 10.25px;
+    }
+    .phone-number-text{
+        width: 107.17px;
+        height: 18.64px;
+    }
+    .email-text{
+        width: 125.35px;
+        height: 18.64px;
+    }
+    .copyright{
+        margin: 0 0 15px 35px;
+        font-size: 10px;
+    }
+}
