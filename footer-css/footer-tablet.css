@@ -2,6 +2,7 @@
     .about-course{
         min-height: 363.46px;
         padding: 103px 0 107px 70.66px;
+        box-sizing: border-box ;
     }
     .about-course-container{
         width: 100%;
