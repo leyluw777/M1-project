@@ -193,15 +193,11 @@ header{
         text-align: right;
     }
 }
-/* @media screen and (max-width: 833px) and (min-width: 519px){
-    header{
-        padding: 36px ;
-    }
 
-} */
-@media screen and (max-width: 833px) {
+@media screen and (max-width: 834px) {
     header{
         min-width: 375px;
+        max-width: 833px;
         /* height: 846px; */
         box-sizing: border-box;
         display: flex;
