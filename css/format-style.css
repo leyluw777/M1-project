@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    margin: 0;
+}
+
+.container-format {
+    width: 100%;
+    margin: 0;
+    padding: 0 120px 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    box-sizing: border-box;
+}
+
+.format-flex {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+.format-head {
+    font-size: 55px;
+    margin: 0 0 130px 0;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+}
+
+.container-format .format-flex .item,
+.container-format .format-flex .item-mid {
+    margin-right: 125px;
+}
+
+
+.container-format .format-flex h4 {
+    font-weight: 700;
+    color: #1E4681;
+    font-size: 25px;
+    line-height: 32.5px;
+    margin: 0;
+}
+
+.container-format .format-flex .paraqraf1,
+.container-format .format-flex .paraqraf2, 
+.container-format .format-flex .paraqraf3 {
+    font-size: 18px;
+    line-height: 130%;
+    margin: 15px 0  0 0;
+}
+
+.container-format .format-flex .paraqraf1 {
+    width: 225px;
+
+}
+
+.container-format .format-flex .paraqraf2 {
+
+    width: 270px;
+}
+
+.container-format .format-flex .paraqraf3 {
+
+    width: 245px;
+
+}
+
+
+.format-head-2 {
+    margin: 220px 0 65px 0;
+    font-size: 55px;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+}
+
+.format-end {
+    width: 665px;
+    margin: 0;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.format-end ul li {
+    line-height: 150%;
+}
+
+
+
+
+@media screen and (max-width:1439px) and (min-width:834px) {
+
+    .container-format {
+        padding: 0 70px 0;
+    }
+
+
+    .format-head {
+        font-size: 32px;
+        margin: 0 0 50px 0;
+    }
+
+    .container-format .format-flex .item {
+        margin-right: 45px;
+    }
+
+    .container-format .format-flex .item-mid {
+        margin-right: 50px;
+    }
+
+
+    .container-format .format-flex h4 {
+        font-weight: 700;
+        color: #1E4681;
+        font-size: 15px;
+        line-height: 32.5px;
+        margin: 0;
+    }
+
+    .container-format .format-flex .paraqraf1,
+.container-format .format-flex .paraqraf2, 
+.container-format .format-flex .paraqraf3 {
+    font-size: 11px;
+    line-height: 130%;
+    margin: 10px 0  0 0;
+}
+
+    .container-format .format-flex .paraqraf1 {
+        width: 155px;
+
+    }
+
+    .container-format .format-flex .paraqraf2 {
+        width: 175px;
+    }
+
+    .container-format .format-flex .paraqraf3 {
+        width: 140px;
+
+    }
+
+
+    .format-head-2 {
+        margin: 130px 0 35px 0;
+        font-size: 32px;
+    }
+
+    .format-end {
+        width: 385px;
+        font-size: 14px;
+    }
+
+    .format-end ul {
+        padding: 0  0 0 20px;
+
+    }
+
+    .format-end ul li {
+        line-height: 20px;
+    }
+}
+
+
+
+@media screen and (max-width:833px) {
+
+    .container-format {
+        padding: 0 0 0 36px;
+    }
+
+
+    .format-head {
+        font-size: 26px;
+        line-height: 26px;
+        margin-bottom: 40px;
+    }
+
+
+    .format-flex {
+        flex-wrap: wrap;
+    }
+
+ 
+ 
+    .container-format .format-flex .item-mid {
+        margin: 35px 0;
+    }
+
+
+    .container-format .format-flex h4 {
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+
+    .container-format .format-flex .paraqraf1,
+    .container-format .format-flex .paraqraf2, 
+    .container-format .format-flex .paraqraf3 {
+        font-size: 10px;
+        line-height: 130%;
+        margin: 7px 0  0 0;
+    }
+
+
+    .container-format .format-flex .paraqraf1 {
+        width: 180px;
+    }
+
+    .container-format .format-flex .paraqraf2 {
+        width: 165px;
+    }
+
+    .container-format .format-flex .paraqraf3 {
+        width: 160px;
+    }
+
+
+    .format-head-2 {
+        margin: 80px 0 30px 0;
+        font-size: 26px;
+    }
+
+    .format-end {
+        width: 300px;
+        font-size: 12px;
+    }
+
+    .format-end ul {
+        padding: 0  0 0 20px;
+    }
+    .format-end ul li {
+        line-height: 18px;
+    }
+}
+
+@media screen and (max-width:832px) and (min-width:486px) {
+    .container-format .format-flex .item-mid {
+        margin: 0 40px 0 0  ;
+    }
+    .container-format .format-flex .item {
+        margin-right: 35px;
+    }
+
+}
