@@ -14,7 +14,7 @@
     justify-content: space-between;
     padding: 91px 124px 157px;
 }
-.container-about .main{
+.container-about .main-about{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -44,7 +44,7 @@
     width: 100%;
     height: 100%;
 }
-.container-about .footer{
+.container-about .footer-about{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -126,7 +126,7 @@
         font-size: 26px;
         line-height: 26px;
     }
-    .container-about .main{
+    .container-about .main-about{
         flex-wrap: wrap;
         justify-content: center;
         align-content: space-between;
@@ -166,7 +166,7 @@
 }
 
 /* For extra-small devices */
-@media screen and (max-width: 374px){
+@media screen and (max-width: 375px){
     .container-about{
         min-width: 374px;
         height: 695px;
@@ -177,7 +177,7 @@
         line-height: 24px;
         font-weight: 700;
     }
-    .container-about .main{
+    .container-about .main-about{
         flex-wrap: wrap;
         justify-content: center;
         align-content: space-between;
