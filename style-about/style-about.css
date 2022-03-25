@@ -79,7 +79,7 @@
     margin: 7px 0 0;
 }
 
-@media screen and (max-width: 1439px) and (min-width: 834px) {
+@media screen and (min-width: 834px) and (max-width: 1439px) {
     .container-about{
         min-width: 834px;
         height: 633px;
@@ -116,7 +116,7 @@
     }
 }
 
-@media screen and (max-width: 833px) and (min-width: 375px) {
+@media screen and (max-width: 834px) and (min-width: 375px){
     .container-about{
         min-width: 375px;
         height: 776px;
