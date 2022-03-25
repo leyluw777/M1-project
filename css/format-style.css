@@ -87,7 +87,7 @@ body {
 
 
 
-@media screen and (max-width:1439px) and (min-width:834px) {
+@media screen and (max-width:1439px) and (min-width:835px) {
 
     .container-format {
         padding: 0 70px 0;
@@ -161,7 +161,7 @@ body {
 
 
 
-@media screen and (max-width:833px) {
+@media screen and (max-width:834px) {
 
     .container-format {
         padding: 0 0 0 36px;
@@ -232,7 +232,7 @@ body {
     }
 }
 
-@media screen and (max-width:832px) and (min-width:486px) {
+@media screen and (max-width:833px) and (min-width:486px) {
     .container-format .format-flex .item-mid {
         margin: 0 40px 0 0  ;
     }
