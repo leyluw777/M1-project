@@ -4,7 +4,6 @@
     margin: 0;
     padding: 0;
     font-family: "Roboto";
-    box-sizing: border-box;
 }
 header{
     min-width: 1440px;
