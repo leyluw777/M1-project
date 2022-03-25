@@ -44,7 +44,7 @@ body {
 }
 
 .cards .card .card-content {
-    height: 140px;
+    height: 150px;
     padding: 10px 20px 23px;
     display: flex;
     flex-direction: column;
@@ -83,6 +83,7 @@ body {
 .fdback-section .fdback-content h2 {
     font-size: 55px;
     font-weight: 700;
+    margin: 0 0 75px 0;
 }
 
 .fdback-content .fdback-box {
@@ -287,9 +288,9 @@ body {
     }
 
 
-    .fdback-section {
+    /* .fdback-section {
         padding: 45px 35px;
-    }
+    } */
 
     .fdback-section .fdback-content h2 {
         font-size: 26px;
