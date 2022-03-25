@@ -8,13 +8,14 @@
     margin-top: 200px;
     padding: 0 85px;
     box-sizing: border-box;
-    font-family: 'Roboto Slab', serif;
+    
 }
 
 .cards-section h2 {
     font-size: 55px;
     font-weight: 700;
     margin-left: 40px;
+    font-family: 'Roboto Slab', serif;
 }
 
 .cards {
@@ -77,13 +78,14 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    font-family: 'Roboto Slab', serif;
+
 }
 
 .fdback-section .fdback-content h2 {
     font-size: 55px;
     font-weight: 700;
     margin: 0 0 75px 0;
+    font-family: 'Roboto Slab', serif;
 }
 
 .fdback-content .fdback-box {
