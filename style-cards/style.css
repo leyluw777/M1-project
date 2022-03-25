@@ -5,6 +5,7 @@ body {
 
 .cards-section {
     margin: 0;
+    margin-top: 200px;
     padding: 0 85px;
     box-sizing: border-box;
     font-family: 'Roboto Slab', serif;
@@ -129,6 +130,7 @@ body {
 @media only screen and (max-width:1439px) {
     .cards-section {
         padding: 0 48px;
+        margin-top: 125px;
     }
 
     .cards-section h2 {
@@ -238,6 +240,7 @@ body {
 @media only screen and (max-width:833px) {
     .cards-section {
         padding: 0 35px;
+        margin-top: 60px;
     }
 
     .cards-section h2 {
