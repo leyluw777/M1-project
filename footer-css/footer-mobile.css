@@ -3,7 +3,6 @@
         width: 100%;
         min-height: 363.46px;
         padding: 62px 0 63px 35px;
-    
     }
     .about-course-container{
         width: 83%;
@@ -32,11 +31,12 @@
     .description-item{
         margin-right: 0;
         margin-bottom: 15px;
-        /* margin-top: 20px; */
+/*         margin-top: 20px; */
     }
     .description-item-2{
         display: flex;
         flex-direction: column;
+        justify-content: center;
     }
     .about-course-description{
         width: 120px;
