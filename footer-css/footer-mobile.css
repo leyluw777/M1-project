@@ -20,7 +20,6 @@
     }
     .description{
         flex-wrap: wrap;
-        justify-content: center;
         margin-top: 10px;
     }
     .description-heading{
