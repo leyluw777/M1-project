@@ -44,7 +44,7 @@
 }
 
 .cards .card .card-content {
-    height: 150px;
+    height: 140px;
     padding: 10px 20px 23px;
     display: flex;
     flex-direction: column;
