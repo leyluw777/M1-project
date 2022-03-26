@@ -232,7 +232,7 @@ body {
     }
 }
 
-@media screen and (max-width:833px) and (min-width:486px) {
+@media screen and (max-width:834px) and (min-width:486px) {
     .container-format .format-flex .item-mid {
         margin: 0 40px 0 0  ;
     }
