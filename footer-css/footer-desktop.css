@@ -2,12 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
 
+
 body{
     font-family: "Roboto",sans-serif;
 }
 
 /* About-course section */
 .about-course{
+    box-sizing: border-box;
     width: 100%;
     min-height: 363.46px;
     background-color: #9DC9C8;
@@ -64,6 +66,7 @@ body{
 
 /* Footer */
 .footer{
+    box-sizing: border-box;
     width: 100%;
     background-color: black;
     color: white;
