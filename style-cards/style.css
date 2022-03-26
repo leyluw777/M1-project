@@ -129,7 +129,7 @@
 
 }
 
-@media only screen and (max-width:1439px) {
+@media only screen and (max-width:1439px) and (min-width: 834px) {
     .cards-section {
         padding: 0 48px;
         margin-top: 125px;
@@ -239,7 +239,7 @@
 }
 
 
-@media only screen and (max-width:833px) {
+@media only screen and (max-width:834px) {
     .cards-section {
         padding: 0 35px;
         margin-top: 60px;
