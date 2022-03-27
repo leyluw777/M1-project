@@ -15,6 +15,7 @@ body{
     background-color: #9DC9C8;
     padding: 179px 0 185px 122px;
     font-weight: 700;
+    min-width: 375px;
 }
 .about-course-container{
     width: 63%;
@@ -72,6 +73,7 @@ body{
     color: white;
     display: flex;
     flex-direction: column;
+    min-width: 375px;
 }
 .footer-container{
     width: 80%;
