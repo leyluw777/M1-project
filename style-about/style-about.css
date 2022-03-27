@@ -3,7 +3,7 @@
 
 .container-about{
     min-width: 1440px;
-    height: 1046px;
+    height: 1027px;
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
@@ -79,7 +79,7 @@
     .container-about{
         min-width: 834px;
         height: 633px;
-        padding: 56px 71.63px 180.25px 72px;
+        padding: 76px 71.63px 103px 72px;
     }
     .container-about h1{
         font-size: 32px;
@@ -97,7 +97,8 @@
         height: 199.23px;
     }
     .container-about .left-picture{
-        display: none;
+        width: 134.37px;
+        height: 117.57px;
     }
     .container-about .info-text{
         width: 24%;
@@ -112,11 +113,11 @@
     }
 }
 
-@media screen and (max-width: 834px) and (min-width: 375px){
+@media screen and (max-width: 834px){
     .container-about{
         min-width: 375px;
-        height: 776px;
-        padding: 56px 30.53px 124px 36px;
+        height: 720px;
+        padding: 40px 30.53px 76px 36px;
     }
     .container-about h1{
         font-size: 26px;
@@ -144,7 +145,7 @@
     }
     .container-about .info{
         width: 75%;
-        height: 115px;
+        height: 122px;
         align-content: space-between;
         flex-wrap: wrap;
     }
@@ -158,56 +159,7 @@
     .container-about .info-text p{
         font-size: 10px;
         line-height: 13px;
+        margin: 3px 0;
     }
 }
 
-/* For extra-small devices */
-@media screen and (max-width: 375px){
-    .container-about{
-        min-width: 374px;
-        height: 695px;
-        padding: 60px 30.53px 124px 36px;
-    }
-    .container-about h1{
-        font-size: 22px;
-        line-height: 24px;
-        font-weight: 700;
-    }
-    .container-about .main-about{
-        flex-wrap: wrap;
-        justify-content: center;
-        align-content: space-between;
-    }
-    .container-about .text{
-        width: 100%;
-    }
-    .container-about .text p{
-        font-size: 10px;
-        line-height: 16px;
-    }
-    .container-about .picture{
-        width: 150px;
-        height: 150.29px;
-        margin-top: 15px;
-    }
-    .container-about .left-picture{
-        display: none;
-    }
-    .container-about .info{
-        width: 75%;
-        height: 110px;
-        align-content: space-between;
-        flex-wrap: wrap;
-    }
-    .container-about .info-text{
-        width: 34%;
-    }
-    .container-about .info-text h5{
-        font-size: 10px;
-        line-height: 14px;
-    }
-    .container-about .info-text p{
-        font-size: 8px;
-        line-height: 11px;
-    }
-}

@@ -45,7 +45,7 @@
 }
 
 .cards .card .card-content {
-    height: 150px;
+    height: 140px;
     padding: 10px 20px 23px;
     display: flex;
     flex-direction: column;
@@ -131,7 +131,7 @@
 
 }
 
-@media only screen and (max-width:1439px) {
+@media only screen and (max-width:1439px) and (min-width: 834px) {
     .cards-section {
         padding: 0 48px;
         margin-top: 125px;
@@ -241,7 +241,7 @@
 }
 
 
-@media only screen and (max-width:833px) {
+@media only screen and (max-width:834px) {
     .cards-section {
         padding: 0 35px;
         margin-top: 60px;

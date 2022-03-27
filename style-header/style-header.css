@@ -7,12 +7,11 @@
 }
 header{
     min-width: 1440px;
-    /* height: 846px; */
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    padding: 21px 245px 30px 122px ;
+    padding: 21px 245px 50px 122px ;
 }
 .header-logo{
     width: 112px;
@@ -30,14 +29,12 @@ header{
     margin-bottom: 67px;
 }
 .header-trio{
-    /* width: 42%; */
     width: 509px;
     display: flex;
     justify-content: space-between;
     margin-bottom: 37px;
 }
 .trio-globe{
-    /* width: 33%; */
     display: flex;
     padding-right: 27px;
 }
@@ -51,7 +48,6 @@ header{
     line-height: 23px;
 }
 .header-left-right{
-    /* width: 80%; */
     display: flex;
     justify-content: space-between;
 }
@@ -102,7 +98,6 @@ header{
 @media screen and (min-width: 834px) and (max-width: 1439px) {
     header{
         min-width: 834px;
-        /* height: 846px; */
         box-sizing: border-box;
         padding: 22px 142px 30px 70px ;
     }
@@ -122,7 +117,6 @@ header{
         margin-bottom: 40px;
     }
     .header-trio{
-        /* width: 45%; */
         width: 295px;
         display: flex;
         justify-content: space-between;
@@ -130,7 +124,6 @@ header{
     
     }
     .trio-globe{
-        /* width: 33%; */
         display: flex;
         padding-right: 15px;
     }
@@ -144,7 +137,6 @@ header{
         line-height: 14px;
     }
     .header-left-right{
-        /* width: 80%; */
         display: flex;
         justify-content: space-between;
     }
@@ -198,7 +190,6 @@ header{
     header{
         min-width: 375px;
         max-width: 833px;
-        /* height: 846px; */
         box-sizing: border-box;
         display: flex;
         align-items: flex-start;
@@ -221,14 +212,12 @@ header{
         margin-bottom: 38.64px;
     }
     .header-trio{
-        /* width: 45%; */
         width: 237px;
         display: flex;
         justify-content: space-between;
         margin-bottom: 15.06px;
     }
     .trio-globe{
-        /* width: 33%; */
         display: flex;
         padding-right: 12px;
     }
@@ -242,7 +231,6 @@ header{
         line-height: 11px;
     }
     .header-left-right{
-        /* width: 80%; */
         display: flex;
         flex-direction: column;
         justify-content: space-between;
